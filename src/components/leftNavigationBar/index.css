@@ -1,0 +1,16 @@
+.left-navigation-bar {
+  width: 200px;
+  position: fixed;
+  height: 100%;
+  background: #001529;
+}
+
+.left-navigation-bar > ul:nth-child(2) {
+  border-top: 1px solid #fff;
+}
+
+.anticon-star {
+  position: absolute;
+  top: 13px;
+  left: 170px;
+}
